@@ -12,8 +12,6 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
-<img width="350px" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 - 👨🏽‍💻 I’m currently working on []();
 - 🌱 I’m currently learning PHP and JS; 
 - 👯 I’m looking to collaborate on []() 🤝;
@@ -21,10 +19,6 @@
 - ⚡️ Fun-Fact: I have a degree in Technologist in System Analysis and studying Information Systems;
 - 📫 How to reach me: allyson_gerald@outlook.com;
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
-<br>
-<br>
-<hr>
-
 
 <p>
 <h4>Programming Languages: </h4>
@@ -69,16 +63,4 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=allysongerald">
-</p>
-
-<hr>
-
-
-<p align="center" style="margin-top:40px">
-   <a href="#" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cerberodev" width="50px" height="50px" style="margin-right:30px"/></a>
-  <a href="https://twitter.com/cerberodev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cerberodev" width="50px" height="50px" style="margin-right:30px"/></a>
-  <a href="https://fb.com/cerberodev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cerberodev" width="48px" height="48px" style="margin-right:30px"/></a>
-  <a href="https://instagram.com/cerberodev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cerberodev" width="50px" height="50px" style="margin-right:30px"/></a>
 </p>
