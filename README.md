@@ -25,7 +25,7 @@
 - 📫 How to reach me: allyson_gerald@outlook.com;
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 
----
+
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -34,6 +34,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+<hr>
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
@@ -41,8 +42,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 </p>
-
-<hr>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
@@ -64,8 +63,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 	
 </p>
-
-<hr>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
