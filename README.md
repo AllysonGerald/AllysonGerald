@@ -17,7 +17,7 @@
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
 - 👨🏽‍💻 I’m currently working on []();
-- 🌱 I’m currently learning PHP and JS; 
+- 🌱 I’m currently learning PHP and JavaScript; 
 - 👯 I’m looking to collaborate on []() 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Technologist in System Analysis and studying Information Systems;
