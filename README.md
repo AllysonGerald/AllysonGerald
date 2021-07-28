@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/allysongerald93)
 
 &nbsp;
----
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -29,6 +29,8 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I have a degree in Technologist in System Analysis and studying Information Systems;
 - 📫 How to reach me: allyson_gerald@outlook.com;
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
+
+---
 
 **Languages and Tools:** 
 
