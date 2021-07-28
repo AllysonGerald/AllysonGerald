@@ -43,7 +43,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
