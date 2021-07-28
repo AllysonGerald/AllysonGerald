@@ -21,8 +21,9 @@
 - ⚡️ Fun-Fact: I have a degree in Technologist in System Analysis and studying Information Systems;
 - 📫 How to reach me: allyson_gerald@outlook.com;
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
-<hr>
 <br>
+<hr>
+
 
 <p>
 <h4>Programming Languages: </h4>
