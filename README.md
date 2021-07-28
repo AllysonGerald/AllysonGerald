@@ -10,7 +10,8 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/allysongerald93)
 
-&nbsp;
+<!-- &nbsp; -->
+---
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -24,9 +25,8 @@
 - 📫 How to reach me: allyson_gerald@outlook.com;
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 
-&nbsp;
+---
 
-**Languages and Tools:** 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
@@ -41,6 +41,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 </p>
+
+<hr>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
@@ -60,8 +62,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png" alt=django width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
- 
+	
 </p>
+
+<hr>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
@@ -71,7 +75,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 	  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 </p>
-<p>
-	![Allyson Gerald github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
-</p>
+
 
