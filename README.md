@@ -22,10 +22,10 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on []();
 - 🌱 I’m currently learning Laravel and NodeJs; 
 - 👯 I’m looking to collaborate on []() 🤝;
-<!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- ⚡️ Fun-Fact: I have a degree in Technologist in System Analysis and studying Information Systems;
+- 📫 How to reach me: allyson_gerald@outlook.com;
+- <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 
 **Languages and Tools:** 
 
