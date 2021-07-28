@@ -9,7 +9,9 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22mblv4isdrx7tgtpko2kymwa)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/allysongerald93)
+
 &nbsp;
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
@@ -22,10 +24,9 @@
 - 📫 How to reach me: allyson_gerald@outlook.com;
 <!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 
----
+&nbsp;
 
 **Languages and Tools:** 
-
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
