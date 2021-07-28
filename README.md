@@ -75,10 +75,10 @@
 
 
 <p align="center" style="margin-top:40px">
-   <a href="#" target="_blank" style="margin-right:15px">
+   <a href="#" target="_blank" style="margin-right:30px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cerberodev" width="50px" height="50px"/></a>
-  <a href="https://twitter.com/cerberodev" target="_blank" style="margin-right:15px">
+  <a href="https://twitter.com/cerberodev" target="_blank" style="margin-right:30px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cerberodev" width="50px" height="50px" /></a>
-  <a href="https://fb.com/cerberodev" target="_blank" style="margin-right:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cerberodev" width="48px" height="48px"/></a>
-  <a href="https://instagram.com/cerberodev" target="_blank" style="margin-right:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cerberodev" width="50px" height="50px"/></a>
+  <a href="https://fb.com/cerberodev" target="_blank" style="margin-right:30px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cerberodev" width="48px" height="48px"/></a>
+  <a href="https://instagram.com/cerberodev" target="_blank" style="margin-right:30px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cerberodev" width="50px" height="50px"/></a>
 </p>
