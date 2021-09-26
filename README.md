@@ -8,11 +8,11 @@
 
 <div align="center"><br>
   <a href="https://github.com/AllysonGerald">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&title_color=5F1D9C;&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&title_color=5F1D9C;&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<!-- <div style="display: inline_block; padding: 3px 5px;"><br>
+<div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Front-End Web Development</h3> 
   <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -52,19 +52,17 @@
   <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Yarn" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg">
-</div> -->
+</div>
 
 ##
   
-<div> 
+<div align="center"><br> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/allyson_gerald_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:allyson_gerald@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allysongerald/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
