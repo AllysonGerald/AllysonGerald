@@ -18,8 +18,8 @@
   <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="vue" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Sass" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="vue" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Sass" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
   
 <div style="display: inline_block; padding: 3px 5px;"><br>
