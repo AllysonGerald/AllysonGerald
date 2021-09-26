@@ -15,14 +15,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <div>
-  <h4>Programming Languages: </h4>
-  <p align="left">
-   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus/>
-   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt="C"/>
-   <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="30" height="40"/>
-   <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"/>
-   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
   ##
