@@ -11,10 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-##
   
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Front-End Web Development</h3> 
   <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -22,28 +20,39 @@
   <img align="center" alt="Bootstrap" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Sass" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
-<div style="display: inline_block"><br>
+  
+<div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Back-End Web Development</h3> 
   <img align="center" alt="Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="NodeJs" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Laravel" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Django" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="PHP" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="NodeJs" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Laravel" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
 </div>
-<div style="display: inline_block"><br>
+  
+<div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Database</h3> 
   <img align="center" alt="MySQL" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="PostgreSQL" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="SQLServer" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="MSQLServer" height="80" width="100" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 </div>
-<div style="display: inline_block"><br>
+  
+<div style="display: inline_block; padding: 3px 5px;"><br>
+  <h3>Suport</h3> 
+  <img align="center" alt="Docker" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="AWS" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+</div>
+  
+<div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Others</h3> 
   <img align="center" alt="C" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Cplusplus" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="R" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="Jupyter" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-</div>
+  <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Yarn" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg">
+</div> -->
 
-  ##
-  
+##  
   
