@@ -49,7 +49,7 @@
   <img align="center" alt="C" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Cplusplus" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="R" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="R" height="50" width="70" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" style="yellow">
+  <img align="center" alt="PowerBI" height="60" width="100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" style="yellow">
   <img align="center" alt="Jupyter" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
