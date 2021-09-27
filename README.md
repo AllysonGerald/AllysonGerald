@@ -43,7 +43,6 @@
   <img align="center" alt="PS" height="50" width="60" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg">
   <img align="center" alt="AI" height="50" width="60" src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg">
 </div>
-  
 <div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Suport</h3> 
   <img align="center" alt="Docker" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
@@ -61,7 +60,7 @@
   <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Yarn" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg">
 </div>
-
+  
 <div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Tools</h3> 
   <img align="center" alt="RStudio" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
