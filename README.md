@@ -54,6 +54,8 @@
   <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Yarn" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg">
+  <img align="center" alt="PS" height="80" width="100" src="https://www.svgrepo.com/show/41189/adobe-photoshop-logo.svg">
+  
 </div>
 
 <div style="display: inline_block; padding: 3px 5px;"><br>
