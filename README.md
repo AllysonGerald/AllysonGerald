@@ -29,7 +29,9 @@
 </div>
 
    ![Snake animation](https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg)
-
+  
+##
+  
 <div style="display: inline_block;"><br>
   <h3>Front-End Web Development</h3>
   <img align="center" style="margin: 1.5em 2em;" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> 
