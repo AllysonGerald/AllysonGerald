@@ -13,7 +13,8 @@
   <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150"> 
 </div>
   
-<div style="display: inline_block; padding: 3px 5px;"><br>
+<!--
+  <div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Front-End Web Development</h3> 
   <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -66,7 +67,7 @@
   <h3>Tools</h3> 
   <img align="center" alt="RStudio" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="vscode" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-</div>
+</div> -->
 
 ##
   
@@ -77,13 +78,10 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
-
-<div align="center"><br> 
+  <a href="mailto:#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="win">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="ios">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"><br>
 </div>
-  
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+   ![Snake animation](https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg)
