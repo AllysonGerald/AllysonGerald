@@ -30,13 +30,13 @@
 
    ![Snake animation](https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg)
   
-##
   
 <div style="display: inline_block;"><br>
+  <h2 align="center">Technology</h2>
   <h3>Front-End Web Development</h3>
-  <img align="center" style="margin: 1.5em 2em;" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> 
-  <img align="center" style="margin-left: 10px;" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> 
-  <img align="center" style="margin-left: 10px;" alt="Js" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Js" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="Bootstrap" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="vue" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Sass" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><br>
@@ -54,8 +54,8 @@
   <img align="center" alt="MSQLServer" height="80" width="100" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"><br>
   
   <h3>Design</h3> 
-  <img align="center"  style="padding: 10em 5em;" alt="PS" height="50" width="60" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg">
-  <img align="center"  style="margin: 10em 5em;" alt="AI" height="50" width="60" src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg"><br>
+  <img align="center"  alt="PS" height="50" width="60" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg">
+  <img align="center"  alt="AI" height="50" width="60" src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg"><br>
   
   <h3>Suport</h3> 
   <img align="center" alt="Docker" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
