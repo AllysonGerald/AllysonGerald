@@ -32,7 +32,7 @@
   
   
 <div style="display: inline_block;"><br>
-  <h2 align="center">Technology</h2>
+  <h1 align="center">Technology</h1>
   <h3>Front-End Web Development</h3>
   <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> 
