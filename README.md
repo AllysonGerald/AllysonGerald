@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation); 
 - 🤝 Estou procurando colaborar em [Projetos](#);
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação;
+- 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação.
 
 <div align="center"><br>
   <a href="https://github.com/AllysonGerald">
