@@ -7,6 +7,9 @@
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação.
 
+<div aling="center">
+    ![Visitor Count](https://profile-counter.glitch.me/AllysonGerald/count.svg)
+<div>
 <div align="center"><br>
   <a href="https://github.com/AllysonGerald">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&title_color=5F1D9C;&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
