@@ -1,4 +1,4 @@
-# Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀
 
 - 👨🏽‍💻 Atualmente estou trabalhando em [#](#);
 - 🌱 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation); 
