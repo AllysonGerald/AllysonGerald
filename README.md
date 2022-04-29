@@ -1,3 +1,4 @@
+![Dino](https://github.com/SatYu26/SatYu26/blob/master/Assets/dino.gif)
 # Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀
 
 - 👨🏽‍💻 Atualmente estou trabalhando em [#](#);
