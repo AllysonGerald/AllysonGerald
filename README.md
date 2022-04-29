@@ -16,8 +16,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&title_color=5F1D9C;&layout=compact&langs_count=7&theme=github_dark"/>
   <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150"> 
 </div>
-  
+
+<div align="center"><br> 
      <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</div>
 ##
   
 <div align="center"><br> 
