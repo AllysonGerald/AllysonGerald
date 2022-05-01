@@ -53,7 +53,7 @@
   <img align="center" alt="PHP" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="NodeJs" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Laravel" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 </div>
   
 <div style="display: inline_block; padding: 3px 5px;"><br>
