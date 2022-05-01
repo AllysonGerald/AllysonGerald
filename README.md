@@ -2,10 +2,10 @@
 # Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀
 
 - 👨🏽‍💻 Atualmente estou trabalhando em [#](#);
-- 🌱 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation); 
+- 🌱 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation), [Javascript](#); 
 - 🤝 Estou procurando colaborar em [Projetos](#);
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação.
+- 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação na Centro Universitário Estácio do Ceará - Campus Moreira Campos
 
 
     ![Visitor Count](https://profile-counter.glitch.me/AllysonGerald/count.svg)
@@ -20,7 +20,6 @@
 <div align="center"><br> 
      <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div>
-##
   
 <div align="center"><br> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -37,7 +36,7 @@
 
    ![Snake animation](https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg)
   
-<!--
+
   <div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Front-End Web Development</h3> 
   <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
