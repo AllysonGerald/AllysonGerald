@@ -41,10 +41,11 @@
   <h3>Front-End Web Development</h3> 
   <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="JS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="bootstrap" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="vue" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Sass" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="react" height="50" width="70" src="">
+<!--   <img align="center" alt="Sass" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> -->
 </div>
   
 <div style="display: inline_block; padding: 3px 5px;"><br>
@@ -53,7 +54,7 @@
   <img align="center" alt="PHP" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="NodeJs" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Laravel" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+<!--   <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"> -->
 </div>
   
 <div style="display: inline_block; padding: 3px 5px;"><br>
@@ -76,9 +77,9 @@
   
 <div style="display: inline_block; padding: 3px 5px;"><br>
   <h3>Others</h3> 
-  <img align="center" alt="C" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Cplusplus" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="R" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+<!--   <img align="center" alt="C" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> -->
+<!--   <img align="center" alt="Cplusplus" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> -->
+<!--   <img align="center" alt="R" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> -->
   <img align="center" alt="PowerBI" height="60" width="100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" style="yellow">
   <img align="center" alt="Jupyter" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
@@ -88,6 +89,6 @@
   
 <div style="display: inline_block;"><br>
   <h3>Tools</h3> 
-  <img align="center" alt="RStudio" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+<!--   <img align="center" alt="RStudio" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> -->
   <img align="center" alt="vscode" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div> -->
