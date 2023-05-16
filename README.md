@@ -1,7 +1,7 @@
 <!-- ![Dino](https://github.com/SatYu26/SatYu26/blob/master/Assets/dino.gif) -->
 # Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀
 
-- 👨🏽‍💻 Atualmente estou trabalhando em [-](#) ;
+- 👨🏽‍💻 Atualmente estou trabalhando em [Salutis](https://www.salutis.com.br/) ;
 - 📚 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation), [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript); 
 - 🤝 Estou procurando colaborar em [Projetos](#);
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
