@@ -17,20 +17,20 @@
 - 👨🏻‍💻 Mais em  👷🏻‍♂️🚧
 
 <br>
-<p align="center" style="display:flex;flex-direction:row;justify-content:center;align-items:center;">
-<a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none;">
+<p align="center" style="display:flex;flex-direction:row;justify-content:center;align-items:center;text-decoration:none;">
+<a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none">
     <img height="30px" halt="Static Badge" src="https://img.shields.io/badge/-GMAIL-9C2523?style=for-the-badge&logo=Gmail&labelColor=FFFFFF"/>
 </a>
-<a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none;">
+<a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none">
   <img height="30px" alt="Codepen" src="https://img.shields.io/badge/-CODEPEN-0A0A08?style=for-the-badge&logo=codepen"/>
 </a>
-<a href="https://www.linkedin.com/in/allysongerald" target="_blank" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/allysongerald" target="_blank" style="text-decoration:none">
   <img height="30" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="#" target="_blank" style="text-decoration:none;">
       <img height="30" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-  <a href="#" target="_blank" style="text-decoration:none;">
+  <a href="#" target="_blank" style="text-decoration:none">
       <img height="30" src="https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a> 
 </p>
