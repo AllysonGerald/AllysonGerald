@@ -1,49 +1,45 @@
-Aqui está o código Markdown melhorado:
-
-```markdown
 <!-- ![Dino](https://github.com/SatYu26/SatYu26/blob/master/Assets/dino.gif) -->
-
-# Olá! Eu sou Allyson Gerald, um Desenvolvedor FullStack 🚀
+# Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀
 
 - 👨🏽‍💻 Atualmente estou trabalhando em [*](https://) ;
-- 📚 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation) e [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript); 
+- 📚 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation), [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript); 
 - 🤝 Estou procurando colaborar em [Projetos](#);
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 🏛️ **Curiosidade:** Sou formado em Análise e Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação no Centro Universitário Estácio do Ceará - Campus Moreira Campos
+- 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação na Centro Universitário Estácio do Ceará - Campus Moreira Campos
+
 
 <div align="center"><br>
-  <!-- <a href="https://github.com/AllysonGerald">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&title_color=5F1D9C;&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&title_color=5F1D9C;&layout=compact&langs_count=7&theme=github_dark"/>
-    <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
-  </a> -->
+  <a href="https://github.com/AllysonGerald">
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&title_color=5F1D9C;&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&title_color=5F1D9C;&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150"> -->
 </div>
 
 <!-- <div align="right"><br> 
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+     <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div> -->
   
 <div align="center"><br> 
-  <!-- <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+<!--   <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a> 
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <!-- <a href="mailto:#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<!--   </a> 
+  <a href="mailto:#">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a> -->
   <br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="win">
@@ -52,9 +48,9 @@ Aqui está o código Markdown melhorado:
 </div>
     
 <div align="center">
-  <img align="center" alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
 </div>    
-
+  
 <!-- <div style="display: inline_block; padding: 3px 5px;">
     <br>
     <h3>Front-End Web Development</h3> 
@@ -77,4 +73,47 @@ Aqui está o código Markdown melhorado:
     <img align="center" alt="Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="PHP" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
     <img align="center" alt="NodeJs" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Laravel" height="50
+    <img align="center" alt="Laravel" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+    <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+</div>
+  
+<div style="display: inline_block; padding: 3px 5px;">
+    <br>
+    <h3>Database</h3> 
+    <img align="center" alt="MySQL" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="PostgreSQL" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="MSQLServer" height="80" width="100" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+</div>
+  
+<div style="display: inline_block; padding: 3px 5px;">
+    <br>
+    <h3>Design</h3> 
+    <img align="center" alt="PS" height="50" width="60" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg">
+    <img align="center" alt="AI" height="50" width="60" src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg">
+</div>
+    
+<div style="display: inline_block; padding: 3px 5px;">
+    <br>
+    <h3>Suport</h3> 
+    <img align="center" alt="Docker" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="AWS" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+</div>
+  
+<div style="display: inline_block; padding: 3px 5px;"><br>
+    <h3>Others</h3> 
+    <img align="center" alt="C" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="Cplusplus" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="R" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+    <img align="center" alt="PowerBI" height="60" width="100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" style="yellow">
+    <img align="center" alt="Jupyter" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+    <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="Yarn" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg">
+</div>
+  
+<div style="display: inline_block;">
+    <br>
+    <h3>Tools</h3> 
+    <img align="center" alt="RStudio" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+    <img align="center" alt="vscode" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div> -->
