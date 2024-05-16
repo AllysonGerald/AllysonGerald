@@ -17,8 +17,8 @@
 - 👨🏻‍💻 Mais em  👷🏻‍♂️🚧
 
 <br>
-<p align="center" style="display:flex;flex-direction:row;justify-content:center;align-items:center;text-decoration:none;">
-<a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none">
+<p align="center" style="display:flex;flex-direction:row;justify-content:space-around;align-items:center;text-decoration:none;">
+<a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none;">
     <img height="30px" halt="Static Badge" src="https://img.shields.io/badge/-GMAIL-9C2523?style=for-the-badge&logo=Gmail&labelColor=FFFFFF"/>
 </a>
 <a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none">
