@@ -66,8 +66,7 @@
 <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
 </p>
 
-
-<br><br>
+<br>
 
 <p align="center" style="display:flex;flex-direction:row;justify-content:space-around;align-items:center;margin-top:50px">
     <img alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
