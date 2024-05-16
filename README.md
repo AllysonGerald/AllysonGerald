@@ -1,119 +1,74 @@
-<!-- ![Dino](https://github.com/SatYu26/SatYu26/blob/master/Assets/dino.gif) -->
-# Olá! Eu sou Allyson Gerald, sou um Desenvolvedor FullStack 🚀
+<img width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro">
+<h1 align="center">
+    Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <br/> I'm Allyson Gerald
+</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=allysongerald&color=green" alt="Profile views" /> </p>
 
-- 👨🏽‍💻 Atualmente estou trabalhando em [*](https://) ;
-- 📚 Atualmente estou aprendendo [Laravel](https://laravel.com/docs/7.x/installation), [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript); 
+- 🚀 Desenvolvedor Web em constante busca por aprimoramento.
+
 - 🤝 Estou procurando colaborar em [Projetos](#);
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+
+- 💼 Trabalhando atualmente ⏳
+
+- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, Java, PHP, Laravel, NodeJS, SQL**
+
 - 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação na Centro Universitário Estácio do Ceará - Campus Moreira Campos
 
+- 👨🏻‍💻 Mais em  👷🏻‍♂️🚧
 
-<div align="center"><br>
-  <a href="https://github.com/AllysonGerald">
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysongerald&title_color=5F1D9C;&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&title_color=5F1D9C;&layout=compact&langs_count=7&theme=github_dark"/>
-  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150"> -->
-</div>
-
-<!-- <div align="right"><br> 
-     <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</div> -->
-  
-<div align="center"><br> 
-<!--   <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+<br>
+<p align="center" style="display:flex;flex-direction:row;justify-content:center;align-items:center;">
+<a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none;">
+    <img height="30px" halt="Static Badge" src="https://img.shields.io/badge/-GMAIL-9C2523?style=for-the-badge&logo=Gmail&labelColor=FFFFFF"/>
+</a>
+<a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none;">
+  <img height="30px" alt="Codepen" src="https://img.shields.io/badge/-CODEPEN-0A0A08?style=for-the-badge&logo=codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/allysongerald" target="_blank" style="text-decoration:none;">
+  <img height="30" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="#" target="_blank" style="text-decoration:none;">
+      <img height="30" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a> -->
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  <a href="#" target="_blank" style="text-decoration:none;">
+      <img height="30" src="https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a> 
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-<!--   </a> 
-  <a href="mailto:#">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a> -->
-  <br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="win">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="ios">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"><br>
-</div>
-    
-<div align="center">
-    <img align="center" alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
-</div>    
-  
-<!-- <div style="display: inline_block; padding: 3px 5px;">
-    <br>
-    <h3>Front-End Web Development</h3> 
-    <img align="center" alt="HTML" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="bootstrap" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="vue" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">    
-    <img align="center" alt="react" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="Sass" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-</div>
-    
-<div align="center">
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</div>
-  
-<div style="display: inline_block; padding: 3px 5px;">
-    <br>
-    <h3>Back-End Web Development</h3> 
-    <img align="center" alt="Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="PHP" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-    <img align="center" alt="NodeJs" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Laravel" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-    <img align="center" alt="Django" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-</div>
-  
-<div style="display: inline_block; padding: 3px 5px;">
-    <br>
-    <h3>Database</h3> 
-    <img align="center" alt="MySQL" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="PostgreSQL" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="MSQLServer" height="80" width="100" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-</div>
-  
-<div style="display: inline_block; padding: 3px 5px;">
-    <br>
-    <h3>Design</h3> 
-    <img align="center" alt="PS" height="50" width="60" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg">
-    <img align="center" alt="AI" height="50" width="60" src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg">
-</div>
-    
-<div style="display: inline_block; padding: 3px 5px;">
-    <br>
-    <h3>Suport</h3> 
-    <img align="center" alt="Docker" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="AWS" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-</div>
-  
-<div style="display: inline_block; padding: 3px 5px;"><br>
-    <h3>Others</h3> 
-    <img align="center" alt="C" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" alt="Cplusplus" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="R" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-    <img align="center" alt="PowerBI" height="60" width="100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" style="yellow">
-    <img align="center" alt="Jupyter" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-    <img align="center" alt="Figma" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <img align="center" alt="NPM" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-    <img align="center" alt="Yarn" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg">
-</div>
-  
-<div style="display: inline_block;">
-    <br>
-    <h3>Tools</h3> 
-    <img align="center" alt="RStudio" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
-    <img align="center" alt="vscode" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-</div> -->
+</p>
+
+<br><br>
+
+## 🛠️ &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=EFD81D)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=TypeScript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=48CEF7)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+
+<br><br>
+
+## 📈✒️ &nbsp;GitHub Analytics
+
+<p style="display:flex;flex-direction:row;justify-content:space-between;">
+<img width="600em" src="https://github-readme-stats.vercel.app/api?username=AllysonGerald&show_icons=true&theme=midnight-purple" alt="allysongerald's stats"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
+</p>
+
+
+<br><br>
+
+<p align="center" style="display:flex;flex-direction:row;justify-content:space-around;align-items:center;margin-top:50px">
+    <img alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
+</p>
