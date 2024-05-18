@@ -61,7 +61,7 @@
 
 ## 📈✒️ &nbsp;GitHub Analytics
 
-<div style="display:flex;flex-direction:row;justify-content:space-between;">
+<div align="center" style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=AllysonGerald&show_icons=true&theme=midnight-purple" alt="allysongerald's stats"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
 </div>
