@@ -61,10 +61,10 @@
 
 ## 📈✒️ &nbsp;GitHub Analytics
 
-<p style="display:flex;flex-direction:row;justify-content:space-between;">
-<img width="600em" src="https://github-readme-stats.vercel.app/api?username=AllysonGerald&show_icons=true&theme=midnight-purple" alt="allysongerald's stats"/>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
-</p>
+<div style="display:flex;flex-direction:row;justify-content:space-between;">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=AllysonGerald&show_icons=true&theme=midnight-purple" alt="allysongerald's stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
+</div>
 
 <br>
 
