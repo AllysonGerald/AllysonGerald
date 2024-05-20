@@ -24,7 +24,7 @@
 <a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none">
   <img height="30px" alt="Codepen" src="https://img.shields.io/badge/-CODEPEN-0A0A08?style=for-the-badge&logo=codepen"/>
 </a>
-<a href="https://www.linkedin.com/in/allysongerald" target="_blank" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/allysongeralddevfullstack/" target="_blank" style="text-decoration:none">
   <img height="30" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="#" target="_blank" style="text-decoration:none;">
