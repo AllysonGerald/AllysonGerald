@@ -48,6 +48,16 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
 
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Allyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Allyson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Allyson-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Allyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+    <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+    <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+</div>
+
 <br><br>
 
 ## 📈✒️ &nbsp;GitHub Analytics
