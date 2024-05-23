@@ -16,24 +16,15 @@
 
 - 👨🏻‍💻 Mais em  👷🏻‍♂️🚧
 
-<br>
-<p align="center" style="display:flex;flex-direction:row;justify-content:space-around;align-items:center;text-decoration:none;">
-<a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none;">
-    <img height="30px" halt="Static Badge" src="https://img.shields.io/badge/-GMAIL-9C2523?style=for-the-badge&logo=Gmail&labelColor=FFFFFF"/>
-</a>
-<a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none">
-  <img height="30px" alt="Codepen" src="https://img.shields.io/badge/-CODEPEN-0A0A08?style=for-the-badge&logo=codepen"/>
-</a>
-<a href="https://www.linkedin.com/in/allysongeralddevfullstack/" target="_blank" style="text-decoration:none">
-  <img height="30" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="#" target="_blank" style="text-decoration:none;">
-      <img height="30" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="#" target="_blank" style="text-decoration:none">
-      <img height="30" src="https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-  </a> 
-</p>
+<br><br>
+
+<div align="center" style="display:inline_block">
+    <a href="mailto:allyson.gerald@gmail.com" target="_blank" style="text-decoration:none;"><img height="30px" halt="Static Badge" src="https://img.shields.io/badge/-GMAIL-9C2523?style=for-the-badge&logo=Gmail&labelColor=FFFFFF"/></a>
+    <a href="https://codepen.io/allysonGerald" target="_blank" style="text-decoration:none"><img height="30px" alt="Codepen" src="https://img.shields.io/badge/-CODEPEN-0A0A08?style=for-the-badge&logo=codepen"/></a>
+    <a href="https://www.linkedin.com/in/allysongeralddevfullstack/" target="_blank" style="text-decoration:none"><img height="30" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=linkedin"/></a>
+    <a href="#" target="_blank" style="text-decoration:none;"><img height="30" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="#" target="_blank" style="text-decoration:none"><img height="30" src="https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+</div>
 
 <br><br>
 
@@ -66,8 +57,9 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
 </div>
 
+<!-- 
 <br>
-
-<p align="center" style="display:flex;flex-direction:row;justify-content:space-around;align-items:center;margin-top:50px">
+<div align="center">
     <img alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
-</p>
+</div> 
+-->
