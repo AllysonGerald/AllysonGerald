@@ -4,18 +4,72 @@
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allysongerald&color=green" alt="Profile views" /> </p>
 
-- 🚀 Desenvolvedor Web em constante busca por aprimoramento.
+<!-- # Olá, eu sou **Allyson Gerald** 👋 -->
 
-- 🤝 Estou procurando colaborar em [Projetos](#);
+<p align="center">Sou um desenvolvedor apaixonado por criar soluções digitais inovadoras e eficientes. Com uma ampla gama de habilidades em diversas tecnologias e ferramentas, estou comprometido em entregar produtos de alta qualidade que atendam às necessidades dos usuários e superem suas expectativas.</p>
 
-- 💼 Trabalhando atualmente ⏳
+## 🖥️ &nbsp;Tecnologias e Ferramentas
+- **Frontend:** HTML5, CSS3, Javascript, Typescript, React, Vue, TailwindCSS, Bootstrap, Sass
+- **Backend:** Express.js, Node.js, PHP, Laravel, Java, Spring Boot
+- **Banco de Dados:** MongoDB, MySQL, PostgreSQL, SQL
+- **DevOps:** Docker, AWS
+- **Versionamento:** Git, Github, Gitlab, GitFlow
+- **Design e UX:** Adobe XD, Figma, Photoshop, Illustrator
+- **Práticas:** Programação Orientada a Objetos, Clean Code, Metodologia Ágil
 
-- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, Java, PHP, Laravel, NodeJS, SQL**
+## 💬 &nbsp;Soft Skill
+- **Boa Comunicação:** Comunico ideias de forma clara e eficaz
+- **Entregas Eficientes:** "Meu foco está em cumprir prazos, priorizar tarefas de forma eficiente e entregar soluções de alta qualidade."
+- **Proatividade:** Sou proativo na resolução de problemas e otimização de processos
+- **Resiliência:** Lido bem com desafios e recupero-me rapidamente
+- **Ética Profissional:** Comprometo-me com princípios éticos e integridade
+- **Aprendizagem Contínua:** Busco constantemente novos conhecimentos e melhorias
+- **Adaptabilidade:** Adapto-me rapidamente a novas condições e desafios
+- **Colaboração:** Trabalho eficazmente em equipes multidisciplinares
+- **Criatividade:** Inovo na solução de problemas e desenvolvimento de projetos
 
-- 🏛️ **Curiosidade:** Sou formado em Análise Desenvolvimento de Sistemas **(ADS)** e cursando **(SI)** Sistemas de Informação na Centro Universitário Estácio do Ceará - Campus Moreira Campos
+## 🛠️ &nbsp;Hard Skills
 
-- 👨🏻‍💻 Mais em  👷🏻‍♂️🚧
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=EFD81D)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=TypeScript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-05122A?style=for-the-badge&logo=Spring%20Boot)&nbsp;
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-05122A?style=for-the-badge&logo=adobe%20xd)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=48CEF7)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=Bootstrap)&nbsp;
+![Static Badge](https://img.shields.io/badge/Vue-05122A?style=for-the-badge&logo=Vue.JS)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/Gitlab-05122A?style=for-the-badge&logo=Gitlab)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
+![ExpressJS](https://img.shields.io/badge/ExpressJS-05122A?style=for-the-badge&logo=Express)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
 
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Allyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Allyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+    <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+    <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+    <img align="center" alt="Allyson-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Allyson-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+</div>
+
+<br><br>
+
+> Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional. Vamos colaborar e transformar suas ideias em realidade digital!
+
+<p align="center">📫 Vamos nos conectar: 👇🏼</p>
 <br><br>
 
 <div align="center" style="display:inline_block">
@@ -28,39 +82,7 @@
 
 <br><br>
 
-## 🛠️ &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=EFD81D)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=TypeScript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=48CEF7)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
-
-<div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Allyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="Allyson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Allyson-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Allyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-    <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-</div>
-
-<br><br>
-
-## 📈✒️ &nbsp;GitHub Analytics
+## 📈 &nbsp;GitHub Analytics
 
 <div align="center" style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=AllysonGerald&show_icons=true&theme=midnight-purple" alt="allysongerald's stats"/>
