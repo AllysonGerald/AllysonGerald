@@ -17,7 +17,7 @@
 - **Design e UX:** Adobe XD, Figma, Photoshop, Illustrator
 - **Práticas:** Programação Orientada a Objetos, Clean Code, Metodologia Ágil
 
-## 💬 &nbsp;Soft Skill
+## 💬 &nbsp;Soft Skills
 - **Boa Comunicação:** Comunico ideias de forma clara e eficaz
 - **Entregas Eficientes:** "Meu foco está em cumprir prazos, priorizar tarefas de forma eficiente e entregar soluções de alta qualidade."
 - **Proatividade:** Sou proativo na resolução de problemas e otimização de processos
