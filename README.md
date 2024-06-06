@@ -35,6 +35,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openJDK)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-05122A?style=for-the-badge&logo=Spring%20Boot)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-05122A?style=for-the-badge&logo=adobe%20xd)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
@@ -47,23 +48,41 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/Gitlab-05122A?style=for-the-badge&logo=Gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
-![ExpressJS](https://img.shields.io/badge/ExpressJS-05122A?style=for-the-badge&logo=Express)&nbsp;
+![ExpressJS](https://img.shields.io/badge/Express.JS-05122A?style=for-the-badge&logo=Express)&nbsp;
+![NextJS](https://img.shields.io/badge/Next.JS-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-05122A?style=for-the-badge&logo=notepad%2B%2B)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+![SQLite](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle)&nbsp;
 
 <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Allyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Allyson-ExpressJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
+    <img align="center" alt="Allyson-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Allyson-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Allyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-    <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-    <img align="center" alt="Allyson-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Allyson-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
+    <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+    <img align="center" alt="Allyson-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+</div>
+<br>
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img align="center" alt="Allyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+    <img align="center" alt="Allyson-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+    <img align="center" alt="Allyson-VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
+    <img align="center" alt="Allyson-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+</div>
+<br>
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Allyson-PostgresSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+    <img align="center" alt="Allyson-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="Allyson-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+    <img align="center" alt="Allyson-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
+    <img align="center" alt="Allyson-SQLLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
 </div>
 
 <br><br>
