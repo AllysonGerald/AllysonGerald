@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allysongerald&color=green" alt="Profile views" /> </p>
 
 <!-- # Olá, eu sou **Allyson Gerald** 👋 -->
-
+<!--
 <p align="center">Sou um desenvolvedor apaixonado por criar soluções digitais inovadoras e eficientes. Com uma ampla gama de habilidades em diversas tecnologias e ferramentas, estou comprometido em entregar produtos de alta qualidade que atendam às necessidades dos usuários e superem suas expectativas.</p>
 
 ## 🖥️ &nbsp;Tecnologias e Ferramentas
@@ -27,6 +27,17 @@
 - **Adaptabilidade:** Adapto-me rapidamente a novas condições e desafios
 - **Colaboração:** Trabalho eficazmente em equipes multidisciplinares
 - **Criatividade:** Inovo na solução de problemas e desenvolvimento de projetos
+-->
+
+👨‍💻 Desenvolvedor Full Stack | HTML5, CSS3 (SASS), JavaScript, React, Vue, Node.js, PHP, Laravel
+
+🔧 Tecnologias: JavaScript, TypeScript, React, Vue.js, Node.js, Next.js, PHP, Laravel, MySQL, MongoDB, Git, Docker
+
+🚀 Apaixonado por: Desenvolver aplicações web dinâmicas e intuitivas, com foco em UX/UI, performance e código limpo. Gosto de criar soluções escaláveis e de fácil manutenção, tanto no front-end quanto no back-end.
+
+👥 Trabalho em equipe: Experiência com metodologias ágeis (Scrum), controle de versão (Git) e integração contínua.
+
+📚 Sempre aprendendo: Estou sempre ampliando minhas habilidades e explorando novas tecnologias. Atualmente me aprofundando em computação em nuvem e arquitetura de microsserviços.
 
 ## 🛠️ &nbsp;Hard Skills
 
@@ -35,15 +46,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openJDK)&nbsp;
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-05122A?style=for-the-badge&logo=Spring%20Boot)&nbsp;
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-05122A?style=for-the-badge&logo=adobe%20xd)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=48CEF7)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=Bootstrap)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Vue-05122A?style=for-the-badge&logo=Vue.JS)&nbsp;
+![Static Badge](https://img.shields.io/badge/tailwindcss-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/Gitlab-05122A?style=for-the-badge&logo=Gitlab)&nbsp;
@@ -56,8 +63,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+
+<!--
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-05122A?style=for-the-badge&logo=adobe%20xd)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=Bootstrap)&nbsp;
 ![SQLite](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+-->
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Allyson-ExpressJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
@@ -65,8 +78,10 @@
     <img align="center" alt="Allyson-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Allyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
     <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
+    <!--
     <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
     <img align="center" alt="Allyson-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+    -->
 </div>
 <br>
 <div align="center" style="display: inline_block"><br>
@@ -74,7 +89,10 @@
     <img align="center" alt="Allyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
     <img align="center" alt="Allyson-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
     <img align="center" alt="Allyson-VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
+    <img align="center" alt="Allyson-VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
+    <!--
     <img align="center" alt="Allyson-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+    -->
 </div>
 <br>
 <div align="center" style="display: inline_block"><br>
