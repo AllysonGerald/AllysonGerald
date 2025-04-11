@@ -46,23 +46,26 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=Laravel)&nbsp;
+![Laravel](https://img.shields.io/badge/-Symfony-05122A?style=for-the-badge&logo=Symfony)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=48CEF7)&nbsp;
-![Static Badge](https://img.shields.io/badge/Vue-05122A?style=for-the-badge&logo=Vue.JS)&nbsp;
 ![Static Badge](https://img.shields.io/badge/tailwindcss-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/Gitlab-05122A?style=for-the-badge&logo=Gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
-![ExpressJS](https://img.shields.io/badge/Express.JS-05122A?style=for-the-badge&logo=Express)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next.JS-05122A?style=for-the-badge&logo=next.js)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-05122A?style=for-the-badge&logo=notepad%2B%2B)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=MongoDB)&nbsp;
+<!-- 
+    ![Static Badge](https://img.shields.io/badge/Vue-05122A?style=for-the-badge&logo=Vue.JS)&nbsp;
+    ![ExpressJS](https://img.shields.io/badge/Express.JS-05122A?style=for-the-badge&logo=Express)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+    ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-05122A?style=for-the-badge&logo=notepad%2B%2B)&nbsp;
+    ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+-->
 
 <!--
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-05122A?style=for-the-badge&logo=adobe%20xd)&nbsp;
@@ -78,6 +81,7 @@
     <img align="center" alt="Allyson-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Allyson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
     <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
+    <img align="center" alt="Allyson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"/>
     <!--
     <img align="center" alt="Allyson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
     <img align="center" alt="Allyson-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
