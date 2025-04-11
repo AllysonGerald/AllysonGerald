@@ -29,7 +29,7 @@
 - **Criatividade:** Inovo na solução de problemas e desenvolvimento de projetos
 -->
 
-👨‍💻 Desenvolvedor Full Stack | HTML5, CSS3 (SASS), JavaScript, React, Vue, Node.js, PHP, Laravel
+👨‍💻 Desenvolvedor Full Stack
 
 🔧 Tecnologias: JavaScript, TypeScript, React, Vue.js, Node.js, Next.js, PHP, Laravel, MySQL, MongoDB, Git, Docker
 
