@@ -131,9 +131,9 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysongerald&layout=compact&theme=midnight-purple" alt="allysongerald's most languages"/>
 </div>
 
-<!-- 
+
 <br>
 <div align="center">
     <img alt="Snake" src="https://github.com/AllysonGerald/AllysonGerald/blob/output/github-contribution-grid-snake.svg">
 </div> 
--->
+
